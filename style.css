@@ -1,0 +1,25 @@
+body
+{
+    background-color: pink;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#score
+{
+    font-size: 20px;
+    float: left;
+    margin-left: 20px;
+}
+
+#time
+{
+    font-size: 20px;
+    float: right;
+    margin-right: 100px;
+}
+
+#sketch_name
+{
+    color: rgb(255, 101, 127);
+    font-size: 20px;
+}
